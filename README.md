@@ -51,6 +51,6 @@ Based on user feedback, the dashboard was refined to improve usability and insig
 
 This Power BI dashboard serves as a comprehensive tool for analyzing sales data, aiding in data-driven decision-making and strategic planning.
 
-For a detailed walkthrough of the project, refer to the accompanying video tutorial:
+For a detailed walkthrough of the project, refer to the accompanying video tutorial: https://youtu.be/68m2UCtedj0?si=3xv4GZIsd1a7PJyZ
 
  
